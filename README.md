@@ -2,7 +2,7 @@
 
 -game has no goal, it's just a concept-
 
----------------------------------------
+
 Features:
 -save and load function
 -.txt file with modifable quantity and stats of tool's (in-game items) by user without limits
@@ -11,7 +11,9 @@ Features:
 
 Bugs:
 -yes
----------------------------------------
+
+
+
 How to play:
 
 With every input you are getting coins, based on the number of miners you have and tool's power they are using.
