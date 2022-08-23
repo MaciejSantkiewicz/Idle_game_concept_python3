@@ -63,9 +63,13 @@ Base chance is 4% (can be modifiable in the game.py file)
 
 To expand the available tool upgrades, add the following line in the tools.txt file, as follow:
 
+
 [Tool name]
+
 [Tool power] - will muliple the coins digged by miner
+
 [Tool purchase cost] - nuber of coins needed
+
 
 For example:
 
