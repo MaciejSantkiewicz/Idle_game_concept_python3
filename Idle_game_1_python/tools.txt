@@ -1,0 +1,12 @@
+Wooden pickaxes
+0
+1
+Iron pickaxes
+1000
+2
+Diamond pickaxes
+5000
+4
+Titanium pickaxes
+100000
+8
