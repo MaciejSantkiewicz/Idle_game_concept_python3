@@ -38,21 +38,21 @@ With every input you are getting coins, based on the number of miners you have a
 
 "type '/b' - to visit Blacksmith, type '/s' to visit Miner Shop"
 
----:
+---
 Blacksmith:
 
 -can upgrade current tool used by miners
----:
+---
 Miner Shop:
 
 -let you hire more miners
 
----:
+---
 Random event:
 -with every input there is a chance to get x10 coins, based on current modifiers (number of miners and tool's power). 
 Base chance is 4% (can be modifiable in the game.py file)
 
---->
+---
 -type '/q' to save the progress and quit the game
 
 ---------------------------------
