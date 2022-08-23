@@ -41,7 +41,8 @@ With every input you are getting coins, based on the number of miners you have a
 ---
 Blacksmith:
 
--can upgrade current tool used by miners
+-can update current tool used by miners
+
 ---
 Miner Shop:
 
