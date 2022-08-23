@@ -4,13 +4,13 @@
 
 
 Features:
--save and load function
--.txt file with modifable quantity and stats of tool's (in-game items) by user without limits
--random events (just one at the moment)
--currency (value) updated with every
+save and load function
+.txt file with modifable quantity and stats of tool's (in-game items) by user without limits
+random events (just one at the moment)
+currency (value) updated with every
 
 Bugs:
--yes
+yes
 
 
 
