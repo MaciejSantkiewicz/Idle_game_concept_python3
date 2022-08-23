@@ -16,8 +16,6 @@ def clearConsole():
     os.system(command)
 clearConsole()
 
-os.chdir('Idle_game_1_python/')
-
 
 #------------LOADING TOOLS FILE(DO NOT CHANGE)-------------------
 
