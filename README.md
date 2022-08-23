@@ -2,7 +2,7 @@
 
 -game has no goal, it's just a concept-
 
-Luck in the Terminal
+Lunch the game.py file in the Terminal
 
 ---------------------------------
 
