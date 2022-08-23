@@ -2,6 +2,8 @@
 
 -game has no goal, it's just a concept-
 
+Luck in the Terminal
+
 ---------------------------------
 
 
@@ -17,6 +19,7 @@ Features
 
 -currency (value) updated with every input
 
+
 Bugs:
 
 -yes
@@ -27,7 +30,7 @@ Bugs:
 
 How to play:
 
-With every input you are getting coins, based on the number of miners you have and tool's power they are using.
+With every input you are getting coins, based on the number of miners you have and tool's power they are using (added coins per input  = number of miners * tool's power)
 
 -Hit ENTER to dig
 
@@ -35,18 +38,18 @@ With every input you are getting coins, based on the number of miners you have a
 
 "type '/b' - to visit Blacksmith, type '/s' to visit Miner Shop"
 
---->
+---:
 Blacksmith:
 
 -can upgrade current tool used by miners
---->
+---:
 Miner Shop:
 
 -let you hire more miners
 
---->
+---:
 Random event:
--with every input there is a chance to get x10 coins, base on current modifiers (number of miners and tool's power). 
+-with every input there is a chance to get x10 coins, based on current modifiers (number of miners and tool's power). 
 Base chance is 4% (can be modifiable in the game.py file)
 
 --->
@@ -54,4 +57,21 @@ Base chance is 4% (can be modifiable in the game.py file)
 
 ---------------------------------
 -to load a save type the same user name you choosed before or use any file name located in /saves folder
+
+---------------------------------
+
+To expand the available tool upgrades, add the following line in the tools.txt file, as follow:
+
+[Tool name]
+[Tool power] - will muliple the coins digged by miner
+[Tool purchase cost] - nuber of coins needed
+
+For example:
+
+Wooden pickaxes 
+
+1
+
+1000
+
 
