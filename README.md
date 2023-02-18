@@ -11,6 +11,7 @@ Lunch the game.py file in the Terminal
 Features
 
 -save and load function (game load files based on given user name)
+
 ![name](https://user-images.githubusercontent.com/111911254/219869900-7d6e9f73-7588-4a69-bb4c-6a7cff1a5ede.jpg)
 
 
@@ -19,6 +20,7 @@ Features
 -random events (just one at the moment)
 
 -currency (value) updated with every input
+
 
 ![game](https://user-images.githubusercontent.com/111911254/219869910-7f885c49-7d2a-4f91-8e10-811f377ce18e.jpg)
 
@@ -47,6 +49,7 @@ With every input you are getting coins, based on the number of miners you have a
 Blacksmith:
 
 -can update current tool used by miners
+
 ![forge](https://user-images.githubusercontent.com/111911254/219869921-ab5746cf-4c37-4f37-a56c-b1d38c56d6d5.jpg)
 
 ---
